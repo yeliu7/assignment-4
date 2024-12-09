@@ -6,3 +6,4 @@ seaborn
 nltk
 networkx
 pyvis
+os.path
