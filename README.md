@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+codecs
+networkx
+sys
+pprint
+time
+math
+pyvis
